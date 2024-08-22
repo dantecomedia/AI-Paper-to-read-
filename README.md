@@ -6,3 +6,4 @@
 - [2402.13116v3.pdf](/Users/rahul/Documents/ai_paper_to_read/AI-Paper-to-read-/LLM%2F2402.13116v3.pdf) : 2402.13116v3
 - [2302.13971v1.pdf](/Users/rahul/Documents/ai_paper_to_read/AI-Paper-to-read-/LLM%2F2302.13971v1.pdf) : 2302.13971v1
 - [2203.15556v1.pdf](/Users/rahul/Documents/ai_paper_to_read/AI-Paper-to-read-/LLM%2F2203.15556v1.pdf) : 2203.15556v1
+- [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7)
