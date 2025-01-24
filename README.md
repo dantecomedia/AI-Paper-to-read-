@@ -8,3 +8,4 @@
 - [2203.15556v1.pdf](/Users/rahul/Documents/ai_paper_to_read/AI-Paper-to-read-/LLM%2F2203.15556v1.pdf) : 2203.15556v1
 - [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7)
 - [Don’t Do RAG:When Cache-Augmented Generation is All You Need for Knowledge Tasks](https://arxiv.org/pdf/2412.15605v1)
+- [Into the Unknown: Self-Learning Large Language Models](https://arxiv.org/pdf/2402.09147)
